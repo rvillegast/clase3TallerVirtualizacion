@@ -19,7 +19,13 @@ Tener instalado y corriendo Docker Desktop
 git clone https://github.com/rvillegast/clase3TallerVirtualizacion.git
 ```
 
-Una vez clonado el repositorio se debe ingresar a la carpeta y ejecutar el comnado de docker
+Una vez clonado el repositorio se debe ingresar a la carpeta e instalar las dependencias
+
+```
+npm install
+```
+
+luego ejecutar el comnado de docker
 
 ```
 docker compose up
